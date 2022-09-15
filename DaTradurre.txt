@@ -1,17 +1,17 @@
  
 
 DESID. E mi? Cossa ha da esser de mi?
-DESID. E io? cosa ne sarà di me?
+
 TOD. E vu tornerè a Bergamo a arar i campi.
-TOD. Tu tornerai a Bergamo ad arare i campi.
+
 DESID. Oh! sior patron, la sa con quanta attenzion, con quanta fedeltà l'ho servia. La servirò ancora per gnente, senza salario, per gnente.
-DESID. Oh! mio signore, lo sa con quanta attenzione, con quanta fedeltà l'ho servita. La servirò ancora gratis, senza salario, niente.
+DESID. Oh! signore, lo sa con quanta attenzione, con quanta fedeltà l'ho servita. La servirò ancora gratis, senza salario, gratis
 TOD. Me servirè per gnente? (con più dolcezza)
-TOD. Mi servirà gratis?
+
 DESID. Sior sì, ghe lo prometto.
-DESID. Si signore, glielo prometto.
+
 FORT. Sior sì, sior sì, el ve servirà per gnente. Ma de aria no se vive. El ve servirà per gnente, e el se pagherà da so posta. (a Todero, forte)
-FORT. Si signore, si signore, vi servità gratis. Ma di aria non si vive. Lei vi servirà gratis, e si pagherà di sua iniziativa.
+
 DESID. Cossa gh'ìntrela ela? Me vorla veder precipità?
 
 TOD. Tasè là. (a Desiderio) Son poveromo; mi no posso pagar un fattor. (a Fortunata)
